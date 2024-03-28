@@ -12,7 +12,7 @@
     </blockquote>
 
     <p>
-      <a href="https://quark-design.hellobike.com/#/zh-CN/component/button">{{
+      <a href="https://quark-ecosystem.github.io/quarkd-docs/angular/#/zh-CN/component/button">{{
         isZhLang ? "点击查看 Vue 文档" : "Click to view Vue documentation"
       }}</a>
     </p>
